@@ -1656,6 +1656,28 @@ footer .wrapper {
     .star {
         margin-bottom: 4px;
     }
+    .offer {
+        height: 20px !important;
+    }
+    .offer button {
+        font-size: 11px !important;
+    }
+    .offer a {
+        font-size: 11px !important;
+    }
+    .card-info {
+        font-size: 10px;
+    }
+    .margin {
+        margin-bottom: 35px;
+    }
+    main {
+        padding-bottom: 54px;
+    }
+    .offer img {
+        width: 15px;
+        height: 15px;
+    }
 }
 
 @media (max-width: 411px) {
